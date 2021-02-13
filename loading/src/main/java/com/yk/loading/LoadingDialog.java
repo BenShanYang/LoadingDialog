@@ -149,6 +149,7 @@ public class LoadingDialog extends Dialog {
             TextView msgText = (TextView) view.findViewById(R.id.tv_tip_text);
             if (isShowMessage) {
                 msgText.setText(message);
+                msgText.setVisibility(View.VISIBLE);
             } else {
                 msgText.setVisibility(View.GONE);
             }
