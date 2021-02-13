@@ -1,6 +1,6 @@
 # LoadingDialog 加载等待窗
 
-[![](https://www.jitpack.io/v/BenShanYang/LoadingDialog.svg)](https://www.jitpack.io/#BenShanYang/LoadingDialog)
+版本号1.0.1 [![](https://www.jitpack.io/v/BenShanYang/LoadingDialog.svg)](https://www.jitpack.io/#BenShanYang/LoadingDialog)
 
 ## 效果图
 ![loading](https://github.com/BenShanYang/LoadingDialog/blob/main/image_demo/loading.png?raw=true)
