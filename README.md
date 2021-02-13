@@ -1,6 +1,6 @@
 # LoadingDialog 加载等待窗
 
-[![](https://www.jitpack.io/v/BenShanYang/LoadingDialog.svg)](https://www.jitpack.io/#BenShanYang/LoadingDialog)7
+[![](https://www.jitpack.io/v/BenShanYang/LoadingDialog.svg)](https://www.jitpack.io/#BenShanYang/LoadingDialog)
 
 ## 使用步骤
 
