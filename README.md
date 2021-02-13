@@ -2,6 +2,9 @@
 
 [![](https://www.jitpack.io/v/BenShanYang/LoadingDialog.svg)](https://www.jitpack.io/#BenShanYang/LoadingDialog)
 
+## 效果图
+![loading](https://github.com/BenShanYang/LoadingDialog/blob/main/image_demo/loading.png?raw=true)
+
 ## 使用步骤
 
 #### Step 1.依赖LoadingDialog
